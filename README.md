@@ -7,8 +7,6 @@ El objetivo es explorar la temática de la **Robótica Industrial**, su evoluci�
 
 ## 📂 Estructura del Proyecto
 
-El proyecto está dividido en varios archivos `.md`, interconectados con enlaces internos (`[[ ]]`) para facilitar la navegación dentro de Obsidian:
-
 - `index.md` → Punto de entrada con un **mapa mental en Mermaid**.  
 - `1-autor-destacado.md` → Autor relevante y su contribución.  
 - `2-libro-referencia.md` → Libro de referencia más leído y su impacto.  
